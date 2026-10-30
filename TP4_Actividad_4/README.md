@@ -26,5 +26,6 @@ Nota: Los resultados deberán registrarse en el archivo led_ldr.txt, en el root 
 	Valor max tapando con la mano: 
 2) 	Máximo del potenciometro 50kOhm
 
+![Muestras ADC, TEST 2](tp4_datos_ldr.png)
 
 
