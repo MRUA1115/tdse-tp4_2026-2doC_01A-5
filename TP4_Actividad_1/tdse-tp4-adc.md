@@ -26,7 +26,7 @@ desvío_estandar = 21,91 (hay una muestra muy lejana, si se desestima da 3.05)
 Media_empirírica = 1870,60
 desvío_estandar = 1.56 
 
-![Muestras ADC, TEST 1](tp4_datos_test_2.png)
+![Muestras ADC, TEST 2](tp4_datos_test_2.png)
 
 ## Test 3
 12. Volver al código y configurar el tercer test, mediante la directiva `#define TEST_NUMBER TEST_3`.
@@ -36,7 +36,7 @@ desvío_estandar = 1.56
 media_empirica = 1864,79
 desvio_estandar= 18,37
 
-![Muestras ADC, TEST 1](tp4_datos_test_3.png)
+![Muestras ADC, TEST 3](tp4_datos_test_3.png)
 
 
 
