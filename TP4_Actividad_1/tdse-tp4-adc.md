@@ -15,7 +15,8 @@ El valor de tensión del potenciometro medido vía multímetro es entre 1800 mV 
 8. Obtener la media y el desvío estándar. Se puede usar cualquier herramienta, por ejemplo Excel, GCalc, [We Do Data Science](https://www.wedodatascience.com), ...
 
 Media_empirírica = 1904,85
-desvío_estandar = 21,91 (hay una muestra muy lejana, si se desestima da 3.05) 
+desvío_estandar = 21,91 (hay una muestra muy lejana, si se desestima da 3.05)
+
 `![Muestras ADC, TEST 1](tp4_datos_test_1.png)`
 ## Test 2
 9. Volver al código y configurar el segundo test, mediante la directiva `#define TEST_NUMBER TEST_2`.
@@ -24,6 +25,7 @@ desvío_estandar = 21,91 (hay una muestra muy lejana, si se desestima da 3.05)
 
 Media_empirírica = 1870,60
 desvío_estandar = 1.56 
+
 `![Muestras ADC, TEST 1](tp4_datos_test_2.png)`
 
 ## Test 3
@@ -33,6 +35,7 @@ desvío_estandar = 1.56
 
 media_empirica = 1864,79
 desvio_estandar= 18,37
+
 `![Muestras ADC, TEST 1](tp4_datos_test_3.png)`
 
 
